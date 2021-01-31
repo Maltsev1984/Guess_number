@@ -28,7 +28,7 @@ class Main {
                 }
             }
         }
-        System.out.println("Вы не угадали...");
+        System.out.println("Вы неe угадали...");
         System.out.println("Повторить игру еще раз? 1 – да / 0 – нет");
         a = in.nextInt();
         if (a == 1) GuessTheNumber();
